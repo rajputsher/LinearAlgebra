@@ -222,6 +222,7 @@ Inuced 2-norm:  16.392007827749776
 ## Conditions and proof of self-adjoint operator
 
 inside <> angle brackets means dot product.
+
 <img src='images/SACondProof.png' width=500 height=250>
 
 ---
