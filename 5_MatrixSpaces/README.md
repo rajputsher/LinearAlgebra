@@ -118,6 +118,7 @@ Definition:
 
 dot product of vectors = 0 ==? They are orthogonal
 There is no projection of one vector onto the other vector. They have absolutely nothing in common. 
+
 <img src="images/22.png" width=500 height=300>
 
 
