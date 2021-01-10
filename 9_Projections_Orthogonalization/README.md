@@ -156,5 +156,41 @@ We can use the QR method where Q is the orthogonal matrix and R another matrix, 
 
 With this we can obtain the original matrix A. 
 
-R--> Recidual matrix
+R--> Residual matrix
+
+Example: 
+
+<img src="images/27.png" width=400 height=250>
+
+**R is always an upper-triangular matrix.**
+
+<img src="images/28.png" width=200 height=200>
+
+Why is this the case ? 
+
+<img src="images/29.png" width=400 height=250>
+
+<img src="images/31.png" width=400 height=300>
+
+Size of Q and R : 
+
+Always Q will be mxm and R will be mxn
+
+<img src="images/30.png" width=400 height=250>
+
+---
+## Matrix inverse via QR decomposition 
+
+<img src="images/32.png" width=300 height=200>
+
+## Sherman-Morrison formula
+
+<img src="images/33.png" width=300 height=300>
+
+Proof:
+
+- $a^Tb$ dot product results in scalar. So is $ab^T$.
+- $a^Tb = ba^T$
+
+<img src="images/34.png" width=400 height=500>
 
