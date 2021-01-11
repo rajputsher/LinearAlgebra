@@ -4,11 +4,11 @@ Remainder:
 
 Multiplicative and additive symmetric matrices
 
-<img src='images/1.png' width=400 height=300>
+<img src='images/1.png' width=500 height=300>
 
 Row and Column space relation
 
-<img src='images/2.png' width=400 height=100>
+<img src='images/2.png' width=300 height=75>
 
 ## SVD: Overview
 
