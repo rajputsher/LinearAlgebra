@@ -233,3 +233,107 @@ This holds good for any value of power. i.e For a matrix $K$ , its eigen vectors
 ## Eigen decomposition of matrix differences
 
 <img src="images/42.png" width=400 height=100>
+
+---
+
+## Eigen vector distinct eigenvalues
+
+Distinct eigen values gives distinct eigen vectors 
+
+
+<img src="images/43.png" width=400 height=100>
+
+Proof:
+
+<img src="images/44.png" width=400 height=250>
+
+<img src="images/45.png" width=400 height=150>
+
+
+## Eigenvectors of repeated eigenvalues
+
+<img src="images/46.png" width=400 height=250>
+
+<img src="images/47.png" width=400 height=150>
+
+
+Example: 
+
+<img src="images/48.png" width=400 height=150>
+
+<img src="images/49.png" width=400 height=200>
+
+Here V1 and V2 are the same , we cannot have a different value in this case 
+
+Example 2: 
+
+
+<img src="images/50.png" width=400 height=150>
+
+In this case the eigen vectors are different for same Eigen values 
+
+<img src="images/51.png" width=400 height=100>
+
+<img src="images/52.png" width=400 height=200>
+
+Geometrically 
+
+<img src="images/53.png" width=500 height=250>
+
+## Symmetric matrices have orthogonal eigenvectors 
+
+Proof: 
+
+<img src="images/54.png" width=500 height=250>
+
+Here from the last equation the first term cannot be zero because of our assumption. Hence V1 and V2 are orthogonal
+
+
+Example: 
+
+<img src="images/55.png" width=400 height=150>
+
+<img src="images/56.png" width=400 height=200>
+
+Here we can see that v1 and v2 are othogonal 
+
+### Implications of Eigen vectors being orthogonal
+
+<img src="images/57.png" width=500 height=200>
+
+We get a diagonal matrix when we multiply V.T and V. After normalizing we get an Identity Matrix.
+
+Therefore: 
+
+<img src="images/58.png" width=400 height=150>
+
+## Reconstruct Matrix from Eigen layers
+
+<img src="images/59.png" width=500 height=250>
+
+<img src="images/60.png" width=500 height=250>
+
+
+## Eigen decomposition of Singular matrices
+
+Calculating the eigen values of a singular matrix is easier than computing it for Full-ranked matrix, because for a singular matrix atleast one of the eigen value is 0.
+
+Example: 
+
+<img src="images/61.png" width=400 height=200>
+
+<img src="images/62.png" width=400 height=200>
+
+Why do singular matrices have eigenvalue 0 ? 
+
+<img src="images/63.png" width=400 height=100>
+
+
+## Generalized Eigen decomposition 
+
+
+<img src="images/64.png" width=300 height=200>
+
+The following is the better way to compute it
+
+<img src="images/65.png" width=300 height=150>
