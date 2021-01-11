@@ -65,8 +65,11 @@ Sigma in SVD:  [0.4463902  1.79584974 2.56569228]
 <img src='images/8.png' width=300 height=200>
 
 
-##  Av is a right singular vector of $AA^T$
-## $\sigma$ is the corresponding singular value 
+## Claim and proof
+
+**Av is a right singular vector of $AA^T$**
+
+**$\sigma$ is the corresponding singular value** 
 
 <img src='images/9.png' width=400 height=250>
 
