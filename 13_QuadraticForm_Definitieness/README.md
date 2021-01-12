@@ -30,6 +30,8 @@ For a Symmetric matrix S
 The Transpose of a quatratic form of a symmetric matrix is the same quadratic form.
 
 In this case the equation becomes: 
+
+
 <img src="images/7.png" width=400 height=150>
 
 Quadratic form of a Identiy matrix: 
