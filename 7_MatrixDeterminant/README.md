@@ -9,7 +9,7 @@
 <img src = "images/2.png" width=500 height=200>
 
 
-## Determinant of a 2x2 matric
+## Determinant of a 2x2 matrix
 
 <img src = "images/3.png" width=300 height=100>
 
